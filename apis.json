@@ -1,0 +1,52 @@
+{
+    "name": "Riverbed Technology",
+    "description": "<p>In our cloud-mobile world, digital performance defines business success. Riverbed delivers digital performance solutions - such as our cloud monitoring SD-WAN solution - that help you reach new levels of performance and gain a competitive edge.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28292-support-riverbed-com.jpg",
+    "tags": [
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/riverbed-technology\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Riverbed Technology",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28292-support-riverbed-com.jpg",
+            "humanURL": "https:\/\/riverbed.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/riverbed-technology-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/riverbed-technology"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/support.riverbed.com\/apis\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/riverbed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/riverbed"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/riverbed.com"
+        }
+    ]
+}
