@@ -1,19 +1,45 @@
 aid: riverbed-technology
 name: Riverbed Technology
-description: 'Riverbed Technology is a company surfaced as a portfolio company of lightspeed-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: enterprise-software. This
-  profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Riverbed Technology is an enterprise unified observability and digital-experience-management
+  (DEM) company. Its platform spans network, application, infrastructure, cloud, and end-user
+  experience monitoring. Core products include the Aternity DEM suite (employee, mobile, and
+  customer experience), AppResponse / NetProfiler / NetIM network observability, SteelHead WAN
+  optimization and the Data Express high-speed data movement service, and the Riverbed IQ AIOps
+  intelligence layer for autonomous IT operations. Riverbed exposes secure APIs and a 50+ partner
+  integrations library (ServiceNow, Splunk, PagerDuty, Slack, Microsoft Teams, and more) so teams
+  can build and customize their own observability, ITSM, and automation workflows. Originally added
+  to the API Evangelist network as a portfolio lead, this profile has been enriched from Riverbed's
+  public trust, security, and developer surfaces.
 url: https://raw.githubusercontent.com/api-evangelist/riverbed-technology/refs/heads/main/apis.yml
 x-type: company
 x-source: lightspeed-venture-partners-portfolio
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://www.riverbed.com/wp-content/themes/riverbed/assets/images/riverbed-logo.svg
 tags:
 - Company
 - Enterprise Software
+- Observability
+- Network Monitoring
+- Digital Experience Monitoring
+- AIOps
+- IT Operations
+- Application Performance Monitoring
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +49,36 @@ maintainers:
 common:
 - type: Website
   url: https://www.riverbed.com
+- type: DeveloperPortal
+  url: https://support.riverbed.com/
+- type: Documentation
+  url: https://support.riverbed.com/
+- type: Support
+  url: https://community.riverbed.com/s/
+- type: Blog
+  url: https://www.riverbed.com/blogs/
+- type: Integrations
+  url: https://www.riverbed.com/integrations-library/
+- type: PrivacyPolicy
+  url: https://www.riverbed.com/privacypolicy/
+- type: TermsOfService
+  url: https://www.riverbed.com/legal/legal-notices/
+- type: TrustCenter
+  url: security/riverbed-technology-trust-center.yml
+- type: Compliance
+  url: https://www.riverbed.com/trust-center/
+- type: Conformance
+  url: conformance/riverbed-technology-conformance.yml
+- type: DomainSecurity
+  url: security/riverbed-technology-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/riverbed-technology-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.riverbed.com/responsible-vulnerability-disclosure-policy/
+- type: LLMsTxt
+  url: llms/riverbed-technology-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1
