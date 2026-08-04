@@ -1,0 +1,43 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.riverbed.com/trust-center/
+# Published compliance / certification posture harvested from the Riverbed Trust Center.
+# These are organizational security/compliance certifications, not per-API protocol conformance
+# (no OpenAPI is captured for this provider yet, so cross-cutting protocol conformance is not derivable).
+standards:
+- id: iso-27001
+  name: ISO/IEC 27001:2022 Information Security Management System
+  conforms: true
+  evidence: Certified by Coalfire (Trust Center)
+- id: iso-27701
+  name: ISO/IEC 27701:2019 Privacy Information Management System
+  conforms: true
+  evidence: Certified by Coalfire (Trust Center)
+- id: soc2-type2
+  name: SOC 2 Type II
+  conforms: true
+  evidence: AICPA Trust Services Criteria attestation for Riverbed IQ and Aternity platforms
+- id: soc3
+  name: SOC 3
+  conforms: true
+  evidence: Public AICPA Trust Services report (Trust Center)
+- id: fedramp
+  name: FedRAMP Class D (High)
+  conforms: true
+  evidence: Riverbed Platform for Government achieved FedRAMP Class D (High) certification
+- id: irap
+  name: IRAP (Australia) PROTECTED
+  conforms: true
+  evidence: Cloud Security Assessment at PROTECTED classification, completed May 2024
+- id: gdpr
+  name: GDPR
+  conforms: true
+  evidence: Data Processing Addendum with Standard Contractual Clauses
+- id: ccpa
+  name: CCPA
+  conforms: true
+  evidence: California Consumer Privacy Act compliance notice (Trust Center)
+- id: dora
+  name: DORA (EU 2022/2554)
+  conforms: true
+  evidence: Digital Operational Resilience Act compliance documented (Trust Center)

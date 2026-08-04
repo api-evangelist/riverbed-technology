@@ -1,0 +1,25 @@
+# Riverbed Technology
+
+> Riverbed is an enterprise unified observability and digital-experience-management (DEM) company. Its platform spans network, application, infrastructure, cloud, and end-user experience monitoring — including the Aternity DEM suite, AppResponse/NetProfiler/NetIM network observability, SteelHead WAN optimization / data acceleration, and the Riverbed IQ AIOps intelligence layer. Integrations are built and customized through Riverbed's secure APIs and pre-built connectors.
+
+## Products
+- [Aternity Digital Experience Management](https://www.riverbed.com/products/): Employee, mobile, and customer experience monitoring
+- [Network Observability (AppResponse, NetProfiler, NetIM)](https://www.riverbed.com/products/): Packet, flow, and infrastructure monitoring
+- [SteelHead / Data Express](https://www.riverbed.com/products/): WAN optimization and high-speed data movement
+- [Riverbed IQ / AIOps](https://www.riverbed.com/products/): AI-driven detection and autonomous IT operations
+
+## Developer & Integration
+- [Support Portal](https://support.riverbed.com/): Product documentation and downloads
+- [Integrations Library](https://www.riverbed.com/integrations-library/): 50+ pre-built connectors (ServiceNow, Splunk, PagerDuty, Slack, Teams, ...) built on Riverbed's secure APIs
+- [Community](https://community.riverbed.com/s/): Developer and admin community
+- [Riverbed Academy](https://education.riverbed.com/): Training and certification
+
+## Trust & Security
+- [Trust Center](https://www.riverbed.com/trust-center/): ISO/IEC 27001:2022, ISO/IEC 27701:2019, SOC 2 Type II, SOC 3, FedRAMP High, IRAP PROTECTED, GDPR, CCPA, DORA
+- [Responsible Vulnerability Disclosure Policy](https://www.riverbed.com/responsible-vulnerability-disclosure-policy/)
+- [SLA](https://www.riverbed.com/sla/)
+- [Subprocessors](https://www.riverbed.com/legal/subprocessors/)
+
+## Legal
+- [Privacy Policy](https://www.riverbed.com/privacypolicy/)
+- [Legal Notices](https://www.riverbed.com/legal/legal-notices/)
